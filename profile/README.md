@@ -24,9 +24,9 @@ I’m passionate about **space systems, robotics, autonomous systems,** and love
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YK12321&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://vercel-repository-tan.vercel.app/api?username=YK12321&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YK12321&layout=compact&theme=tokyonight)
+![Top Languages](https://vercel-repository-tan.vercel.app/api/top-langs/?username=YK12321&layout=compact&theme=tokyonight)
 
 ---
 
