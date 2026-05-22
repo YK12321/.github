@@ -6,11 +6,11 @@ I’m passionate about **space systems, robotics, autonomous systems,** and love
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Algorithms for Space engineering, and multivariable calculus**
+- 🌱 I’m currently learning **Professional Engineering Practice, and Introduction to Business**
 - 💼 I’m working on **Space Engineering Undergrad @ YorkU**
 - 💬 Ask me about **autonomous systems**
 - 📫 How to reach me: **KaushalY@Yathharthha.space**
-- ⚡ Fun fact: **//TODO AUTO GENERATED STUB**
+- ⚡ Fun fact: **I actually don't know what to put here :(**
 
 ---
 
